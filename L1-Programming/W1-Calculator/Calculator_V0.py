@@ -12,4 +12,3 @@ print("Hasil  dari", angka1, "+", angka2, "=", angka1 +angka2)
 print("Hasil  dari", angka1, "-", angka2, "=", angka1 - angka2)
 print("Hasil  dari", angka1, "*", angka2, "=", angka1 * angka2)
 print("Hasil  dari", angka1, "**", angka2, "=", angka1 ** angka2)
-
